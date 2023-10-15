@@ -1,5 +1,5 @@
 {
-    "name": "AorusX/RandomPasswordGenerator",
+    "name": "aorusx/randompasswordgenerator",
     "description": "test",
     "autoload": {
         "psr-4": {
