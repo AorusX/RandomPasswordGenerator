@@ -1,0 +1,16 @@
+{
+    "name": "s-jay/random-password-generator",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "SJay\\RandomPasswordGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jayaamal",
+            "email": "jayaamal0612@gmail.com"
+        }
+    ],
+    "require": {}
+}
